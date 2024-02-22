@@ -1,6 +1,6 @@
-# Las-escritoras-m-s-influyentes-en-la-historia-de-la-literatura-
+# Las escritoras más influyentes en la historia de la literatura
 
-1. Descripción del proyecto  
+# *1. Descripción del proyecto* 
 
  
 
@@ -10,69 +10,65 @@
 
  
 
-Nombre del proyecto:  
+ **Nombre del proyecto:** 
 
-Las escritoras más influyentes en la historia de la literatura   
-
- 
-
-Objetivos: 
-
-Informar sobre le trabajo y vida de las escritoras más influyentes en la historia de la literatura, para reconocer y valorar las aportaciones que estas mujeres, comúnmente relegadas a un segundo plano en comparación de sus contemporáneos masculinos, hicieron a la cultura literaria de hoy en día. 
+_Las escritoras más influyentes en la historia de la literatura_   
 
  
 
-Fuentes primarias: 
+**Objetivos:** 
 
-De Género Unam, I. (s. f.). Sor Juana Inés de la Cruz: adelantada a su época – Coordinación para la Igualdad de Género UNAM. https://coordinaciongenero.unam.mx/2021/11/sor-juana-ines-adelantada-a-su-epoca/  
-
-Virginia Woolf, una escritora de vanguardia. (s. f.). Secretaría de Cultura | Presidencia de la Nación. https://www.cultura.gob.ar/virginia-woolf-una-escritora-de-vanguardia-8683/  
-
-Vida y obra de Gabriela Mistral. (s. f.). CulturaUNAM. https://cultura.unam.mx/evento/vida-y-obra-de-gabriela-mistral  
+- Informar sobre le trabajo y vida de las escritoras más influyentes en la historia de la literatura, para reconocer y valorar las aportaciones que estas mujeres, comúnmente relegadas a un segundo plano en comparación de sus contemporáneos masculinos, hicieron a la cultura literaria de hoy en día. 
 
  
 
-Fuentes secundarias: 
+_Fuentes primarias:_
 
-The Editors of Encyclopaedia Britannica. (1998). Sappho | Biography & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Sappho-Greek-poet  
+- De Género Unam, I. (s. f.). Sor Juana Inés de la Cruz: adelantada a su época – Coordinación para la Igualdad de Género UNAM. https://coordinaciongenero.unam.mx/2021/11/sor-juana-ines-adelantada-a-su-epoca/  
 
-Orozco, I. O. (2023). La importancia de Jane Austen - En tu pantalla. En Tu Pantalla. https://entupantalla.com/la-importancia-de-jane-austen/  
+- Virginia Woolf, una escritora de vanguardia. (s. f.). Secretaría de Cultura | Presidencia de la Nación. https://www.cultura.gob.ar/virginia-woolf-una-escritora-de-vanguardia-8683/  
 
-S, A. P. (2023). Emily Dickinson, la gran poeta de la naturaleza. historia.nationalgeographic.com.es. https://historia.nationalgeographic.com.es/a/emily-dickinson-la-gran-poeta-de-la-naturaleza_17831  
+- Vida y obra de Gabriela Mistral. (s. f.). CulturaUNAM. https://cultura.unam.mx/evento/vida-y-obra-de-gabriela-mistral  
 
  
 
-Recolección y Curación de Datos 
+_Fuentes secundarias:_ 
+
+- The Editors of Encyclopaedia Britannica. (1998). Sappho | Biography & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Sappho-Greek-poet  
+
+- Orozco, I. O. (2023). La importancia de Jane Austen - En tu pantalla. En Tu Pantalla. https://entupantalla.com/la-importancia-de-jane-austen/  
+
+- S, A. P. (2023). Emily Dickinson, la gran poeta de la naturaleza. historia.nationalgeographic.com.es. https://historia.nationalgeographic.com.es/a/emily-dickinson-la-gran-poeta-de-la-naturaleza_17831  
+
+ 
+
+# _2. Recolección y Curación de Datos_ 
 
    
 
-Recopilar y organizar las fuentes digitales y no digitales relevantes. 
+- Recopilar y organizar las fuentes digitales y no digitales relevantes. 
+
+- Toda la información fue recopilada de fuentes digitales confiables. No se generaron datos directamente.  
+
+- Los datos fueron dispuestos en orden estrictamente cronológico. Los títulos, subtítulos, textos y fotos buscan resaltar dicha evolución que va desde el manejo de fuentes bibliográficas hasta la gestión de conocimiento. 
 
  
 
-Toda la información fue recopilada de fuentes digitales confiables. No se generaron datos directamente.  
-
-Los datos fueron dispuestos en orden estrictamente cronológico. Los títulos, subtítulos, textos y fotos buscan resaltar dicha evolución que va desde el manejo de fuentes bibliográficas hasta la gestión de conocimiento. 
-
- 
-
-3. Análisis e Interpretación de Datos  
+# _3. Análisis e Interpretación de Datos_   
 
     
 
-- Aplicar herramientas y métodos digitales para el análisis de datos. 
+- Aplicar herramientas y métodos digitales para el análisis de datos.
+  
+- Documentar el proceso analítico, incluyendo las herramientas utilizadas y la justificación detrás de las decisiones analíticas. 
 
-   - Documentar el proceso analítico, incluyendo las herramientas utilizadas y la justificación detrás de las decisiones analíticas. 
+- Se usó la herramienta TimeLine SJ por ser de código abierto, especializada en líneas de tiempo y apta para proyectos de Humanidades Digitales. Se encuentra disponible gratuitamente aquí: https://timeline.knightlab.com 
 
- 
-
-Se usó la herramienta TimeLine SJ por ser de código abierto, especializada en líneas de tiempo y apta para proyectos de Humanidades Digitales. Se encuentra disponible gratuitamente aquí: https://timeline.knightlab.com 
-
-La herramienta exige la creación de una base de datos con distintos campos  descriptivos y la conexión con imágenes a través de ligas. Se usa a través de una plantilla de Google Docs y la visualización de datos es automática. 
+- La herramienta exige la creación de una base de datos con distintos campos  descriptivos y la conexión con imágenes a través de ligas. Se usa a través de una plantilla de Google Docs y la visualización de datos es automática. 
 
  
 
-4. Visualización y Presentación  
+# _4. Visualización y Presentación_   
 
  
 
@@ -86,7 +82,7 @@ La línea del tiempo formó parte de una presentación pública en Nightlab.
 
  
 
-5. Documentación y Archivado 
+# _5. Documentación y Archivado_ 
 
  
 
@@ -100,7 +96,7 @@ La documentación está almacenada en https://github.com/tmarquez-mx/Timeline_zo
 
  
 
-6. Diseminación y Comunicación  
+# _6. Diseminación y Comunicación_  
 
  
 
@@ -114,28 +110,28 @@ El proyecto será presentado en clase junto con la presente documentación.
 
  
 
-Citas en formato APA 
+**Citas en formato APA** 
 
  
 
-The Editors of Encyclopaedia Britannica. (1998). Sappho | Biography & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Sappho-Greek-poet  
+- The Editors of Encyclopaedia Britannica. (1998). Sappho | Biography & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Sappho-Greek-poet  
 
-De Género Unam, I. (s. f.). Sor Juana Inés de la Cruz: adelantada a su época – Coordinación para la Igualdad de Género UNAM. https://coordinaciongenero.unam.mx/2021/11/sor-juana-ines-adelantada-a-su-epoca/  
+- De Género Unam, I. (s. f.). Sor Juana Inés de la Cruz: adelantada a su época – Coordinación para la Igualdad de Género UNAM. https://coordinaciongenero.unam.mx/2021/11/sor-juana-ines-adelantada-a-su-epoca/  
 
-Orozco, I. O. (2023). La importancia de Jane Austen - En tu pantalla. En Tu Pantalla. https://entupantalla.com/la-importancia-de-jane-austen/  
+- Orozco, I. O. (2023). La importancia de Jane Austen - En tu pantalla. En Tu Pantalla. https://entupantalla.com/la-importancia-de-jane-austen/  
 
-S, A. P. (2023). Emily Dickinson, la gran poeta de la naturaleza. historia.nationalgeographic.com.es. https://historia.nationalgeographic.com.es/a/emily-dickinson-la-gran-poeta-de-la-naturaleza_17831  
+- S, A. P. (2023). Emily Dickinson, la gran poeta de la naturaleza. historia.nationalgeographic.com.es. https://historia.nationalgeographic.com.es/a/emily-dickinson-la-gran-poeta-de-la-naturaleza_17831  
 
-Virginia Woolf, una escritora de vanguardia. (s. f.). Secretaría de Cultura | Presidencia de la Nación. https://www.cultura.gob.ar/virginia-woolf-una-escritora-de-vanguardia-8683/  
+- Virginia Woolf, una escritora de vanguardia. (s. f.). Secretaría de Cultura | Presidencia de la Nación. https://www.cultura.gob.ar/virginia-woolf-una-escritora-de-vanguardia-8683/  
 
-Vida y obra de Gabriela Mistral. (s. f.). CulturaUNAM. https://cultura.unam.mx/evento/vida-y-obra-de-gabriela-mistral  
+- Vida y obra de Gabriela Mistral. (s. f.). CulturaUNAM. https://cultura.unam.mx/evento/vida-y-obra-de-gabriela-mistral  
 
-Elena Garro. (s. f.). Micrositios Temáticos. https://www.imer.mx/micrositios/elena-garro/  
+- Elena Garro. (s. f.). Micrositios Temáticos. https://www.imer.mx/micrositios/elena-garro/  
 
-BBC News Mundo. (2022). Quién fue Maya Angelou, la primera mujer negra que aparece en una moneda en Estados Unidos. BBC News Mundo. https://www.bbc.com/mundo/noticias-59947291  
+- BBC News Mundo. (2022). Quién fue Maya Angelou, la primera mujer negra que aparece en una moneda en Estados Unidos. BBC News Mundo. https://www.bbc.com/mundo/noticias-59947291  
 
-Sylvia Plath: una historia de amor, locura y poesía. (s. f.). Secretaría de Cultura | Presidencia de la Nación. https://www.cultura.gob.ar/sylvia-plath-una-historia-de-amor-locura-y-versos-9672/  
+- Sylvia Plath: una historia de amor, locura y poesía. (s. f.). Secretaría de Cultura | Presidencia de la Nación. https://www.cultura.gob.ar/sylvia-plath-una-historia-de-amor-locura-y-versos-9672/  
 
-Marta Lamas - Detalle del autor - Enciclopedia de la Literatura en México - FLM. (s. f.). http://www.elem.mx/autor/datos/15118  
+- Marta Lamas - Detalle del autor - Enciclopedia de la Literatura en México - FLM. (s. f.). http://www.elem.mx/autor/datos/15118  
 
  
